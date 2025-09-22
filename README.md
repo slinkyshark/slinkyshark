@@ -68,6 +68,6 @@
 
 ###
 
-<p align="left">Due to most of my career being in government, I do not have a vast portfolio I can show off. I am in the process of amending that!<br><br>🌌 <a href=https://github.com/slinkyshark/PYxis>Pyxis</a> (very old) 2D Celestial Simulation! (Excited to remake this in js!)<br>📖 Website for my friend's (upcoming) comic! (React, nodejs/express, postgresql) <a href=https://blh.slinkyshark.com/> Preview</a><br><br>🖥️ Remake of declant.com (see my old remake <a href=https://imgur.com/a/IKFekzy>here</a>)<br>🖥️ Portfolio Website (Need content for it first!) <br>📜 Working on publishing my dissertation work! (Sign language duolingo!)</p>
+<p align="left">Due to most of my career being in government, I do not have a vast portfolio I can show off. I am in the process of amending that!<br><br>🌌 <a href=https://github.com/slinkyshark/PYxis>Pyxis</a> (very old) 2D Celestial Simulation! (Excited to remake this in js!)<br>📖 Website for my friend's comic series! (React, nodejs/express, postgresql) <a href=https://blacklighthill.com/>Blacklighthill.com</a><br><br>🖥️ Remake of declant.com (see my old remake <a href=https://imgur.com/a/IKFekzy>here</a>)<br>🖥️ Portfolio Website (Need content for it first!) <br>📜 Working on publishing my dissertation work! (Sign language duolingo!)</p>
 
 ###
