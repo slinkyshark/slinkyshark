@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">All this tech nonsense started when I was a wee boy and all I wanted my 400mhz PPC processor to do more than catch fire.. <br><br>Graduated in 2021 from Northumbria University - Computer Science w/ AI <br><br>Lover of stinky ferrets..<br><br>Drummer, rhythm game masher</p>
+<p align="left">All this tech nonsense started when I was just a wee boy with a very underpowered Powermac G4, well after it's expiry date - Trying to live with such terrible hardware (at the time) and constantly tinkering with it is what got me where I am today! <br><br>Graduated in 2021 from Northumbria University - Computer Science w/ AI <br><br>Lover of stinky ferrets..<br><br>Drummer, rhythm game masher</p>
 
 ###
 
@@ -42,15 +42,6 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />](https://www.python.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />](https://www.java.com/en)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />](https://git-scm.com/)
-
-
-###
-
-<h2 align="left">What's next?</h2>
-
-###
-
-<p align="left">I'm currently looking for work in the dev space (if you're hiring, get in touch!) and working on building my portfolio and skills.</p>
 
 ###
 
